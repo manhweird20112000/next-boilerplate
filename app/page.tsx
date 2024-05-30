@@ -13,7 +13,7 @@ export default function Home() {
   return (
   <main>
     { count} { auth.name }
-    <button onClick={increment}>{t('welcome')}</button>
+    <button  className={'bg-amber-400'} onClick={increment}>{t('welcome')}</button>
   </main>
   );
 }

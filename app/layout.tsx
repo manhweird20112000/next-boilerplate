@@ -4,7 +4,7 @@ import { getLocale, getMessages } from "next-intl/server";
 
 import type { Metadata } from "next";
 
-import "./globals.css";
+import "@/assets/styles/index.scss";
 
 
 export const metadata: Metadata = {
