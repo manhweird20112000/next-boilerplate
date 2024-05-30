@@ -1,3 +1,11 @@
 {
-  "welcome": "Hello World!"
+  "header": {
+    "shop": "shop",
+    "collections": "collections",
+    "campaigns": "campaigns",
+    "stories": "stories",
+    "search": "search",
+    "account": "account",
+    "wishlist": "wishlist"
+  }
 }

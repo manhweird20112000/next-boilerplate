@@ -1,0 +1,10 @@
+.menu{
+  @apply bg-white border-b border-border-primary py-2.5 flex items-center justify-between px-[3.125rem] relative min-h-[6.25rem];
+  &__item{
+    @apply uppercase text-lg leading-5 text-black font-normal hover:opacity-70;
+  }
+
+  &__list{
+    @apply flex items-center gap-x-10;
+  }
+}
